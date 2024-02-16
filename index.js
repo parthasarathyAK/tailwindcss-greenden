@@ -9,3 +9,7 @@ menu.addEventListener("click",function(){
 closenav.addEventListener("click",function(){
     sidenav.style.right="-50%"
 })
+
+
+
+
